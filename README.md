@@ -1,1 +1,9 @@
-# jarvis
+- 👋 Hi, I’m @jarvisbinary
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 How to reach me ...
+- Gmail=jarvisbinary101@gmail.com
+- Instagram=rajat_singh2001
+- Twitter=@RajatSingh2001
+- Snapchat=rajat_singh0108
